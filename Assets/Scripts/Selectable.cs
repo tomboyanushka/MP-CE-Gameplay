@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour {
 
-    
+    public int bLayer = 9;
 	// Use this for initialization
 	void Start ()
     {
-        gameObject.layer = LayerMask.NameToLayer("building");
+        bLayer = LayerMask.NameToLayer("building");
     }
 
     // Update is called once per frame
@@ -22,14 +22,14 @@ public class NewBehaviourScript : MonoBehaviour {
             if (hit)
             {
 
-                //if (hitInfo.transform.gameObject.layer == "building")
-                //{
-                //    Debug.Log("It's working!");
-                //}
-                //else
-                //{
-                //    Debug.Log("not working");
-                //}
+                if (hitInfo.transform.gameObject.layer == 9)
+                {
+                    Debug.Log("It's working!");
+                }
+                else
+                {
+                    Debug.Log("not working");
+                }
             }
         }
 
