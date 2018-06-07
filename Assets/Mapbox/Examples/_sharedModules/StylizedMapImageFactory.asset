@@ -17,7 +17,7 @@ MonoBehaviour:
       isActive: 1
       layerSource:
         Name: Streets
-        Id: mapbox://styles/mapbox/cjavyikad85yp2rmpo82bb9tn
+        Id: 
         Modified: 
         UserName: 
     rasterOptions:
