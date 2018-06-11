@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: e8236c8f218fd5447a57d5a6b3839466
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CityEngineMaterial
+    100002: CityEngineMaterial1
+    100004: CityEngineMaterial2
+    100006: CityEngineMaterial3
+    100008: CityEngineMaterial4
+    100010: CityEngineMaterial5
+    100012: CityEngineMaterial6
+    100014: CityEngineMaterial7
+    100016: CityEngineMaterial8
+    100018: CityEngineShapeMaterial
+    100020: //RootNode
+    400000: CityEngineMaterial
+    400002: CityEngineMaterial1
+    400004: CityEngineMaterial2
+    400006: CityEngineMaterial3
+    400008: CityEngineMaterial4
+    400010: CityEngineMaterial5
+    400012: CityEngineMaterial6
+    400014: CityEngineMaterial7
+    400016: CityEngineMaterial8
+    400018: CityEngineShapeMaterial
+    400020: //RootNode
+    2100000: CityEngineMaterial
+    2100002: CityEngineMaterial5
+    2100004: CityEngineMaterial6
+    2100006: CityEngineMaterial4
+    2100008: CityEngineShapeMaterial
+    2100010: CityEngineMaterial8
+    2100012: CityEngineMaterial2
+    2100014: CityEngineMaterial1
+    2100016: CityEngineMaterial7
+    2100018: CityEngineMaterial3
+    2300000: CityEngineMaterial
+    2300002: CityEngineMaterial1
+    2300004: CityEngineMaterial2
+    2300006: CityEngineMaterial3
+    2300008: CityEngineMaterial4
+    2300010: CityEngineMaterial5
+    2300012: CityEngineMaterial6
+    2300014: CityEngineMaterial7
+    2300016: CityEngineMaterial8
+    2300018: CityEngineShapeMaterial
+    3300000: CityEngineMaterial
+    3300002: CityEngineMaterial1
+    3300004: CityEngineMaterial2
+    3300006: CityEngineMaterial3
+    3300008: CityEngineMaterial4
+    3300010: CityEngineMaterial5
+    3300012: CityEngineMaterial6
+    3300014: CityEngineMaterial7
+    3300016: CityEngineMaterial8
+    3300018: CityEngineShapeMaterial
+    4300000: CityEngineMaterial
+    4300002: CityEngineMaterial5
+    4300004: CityEngineMaterial6
+    4300006: CityEngineMaterial4
+    4300008: CityEngineShapeMaterial
+    4300010: CityEngineMaterial8
+    4300012: CityEngineMaterial2
+    4300014: CityEngineMaterial1
+    4300016: CityEngineMaterial7
+    4300018: CityEngineMaterial3
+    6400000: CityEngineMaterial
+    6400002: CityEngineMaterial1
+    6400004: CityEngineMaterial2
+    6400006: CityEngineMaterial3
+    6400008: CityEngineMaterial4
+    6400010: CityEngineMaterial5
+    6400012: CityEngineMaterial6
+    6400014: CityEngineMaterial7
+    6400016: CityEngineMaterial8
+    6400018: CityEngineShapeMaterial
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial
+    second: {fileID: 2100000, guid: bf11c68fc5834d94e9b38346ef04b696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial1
+    second: {fileID: 2100000, guid: 08e38ad126d0c6e4ba89762df99a4763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial2
+    second: {fileID: 2100000, guid: e61197b31835b674098d6e457e27b91c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial3
+    second: {fileID: 2100000, guid: 8526ffbfa00a6f042877fa177fd7c5c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial4
+    second: {fileID: 2100000, guid: eb04d682c6454634784a37e04ab17360, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial5
+    second: {fileID: 2100000, guid: e47e207b0d33a4b4186a733f0e8c60d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial6
+    second: {fileID: 2100000, guid: 973bb038a536d00449ec5089f73da1cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial7
+    second: {fileID: 2100000, guid: 364b68574779fd54d8a71e5664036a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial8
+    second: {fileID: 2100000, guid: df4b6f9ef2ae9b7468c229dcf5527074, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineShapeMaterial
+    second: {fileID: 2100000, guid: b1e2a28b0ad459b44b9f330568590b41, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
