@@ -48,20 +48,20 @@ public class RPGCamera : MonoBehaviour
     // LateUpdate is called every frame, if the Behaviour is enabled
     private void LateUpdate()
     {
-        if(target && Input.GetKey("Fire2"))
-        {
-            cameraRotation.x += Input.GetAxis("Mouse X") * sensitivity * Time.deltaTime;
-            cameraRotation.y -= Input.GetAxis("Mouse Y") * sensitivity * Time.deltaTime;
+        //if(target && Input.GetKey("Fire2"))
+        //{
+        //    cameraRotation.x += Input.GetAxis("Mouse X") * sensitivity * Time.deltaTime;
+        //    cameraRotation.y -= Input.GetAxis("Mouse Y") * sensitivity * Time.deltaTime;
 
-            if(limitXRotation)
-            {
-                cameraRotation.x = Mathf.Clamp(cameraRotation.x, rotationLimitsX.x, rotationLimitsX.y);
-            }
-            if(limitYRotation)
-            {
-                cameraRotation.y = Mathf.Clamp(cameraRotation.y, rotationLimitsY.x, rotationLimitsY.y);
-            }
-        }
+        //    if(limitXRotation)
+        //    {
+        //        cameraRotation.x = Mathf.Clamp(cameraRotation.x, rotationLimitsX.x, rotationLimitsX.y);
+        //    }
+        //    if(limitYRotation)
+        //    {
+        //        cameraRotation.y = Mathf.Clamp(cameraRotation.y, rotationLimitsY.x, rotationLimitsY.y);
+        //    }
+        //}
 
         offset.z -= -Input.GetAxis("Mouse ScrollWheel") * sensitivity * Time.deltaTime;
         offset.z = Mathf.Clamp(offset.z, minOffset.z, maxOffset.z);
